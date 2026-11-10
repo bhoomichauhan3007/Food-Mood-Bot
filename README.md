@@ -36,7 +36,7 @@ Food-Mood-Bot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Food-Mood-Bot.git
+git clone https://github.com/bhoomichauhan3007/Food-Mood-Bot.git
 ```
 
 ### 2. Navigate to the project directory
